@@ -1,37 +1,37 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "image": "assets/img/projects/type1.jpeg",
+        "title": "웹스크래핑 - 네이버 뉴스: 경제",
         "description": "My Description 01",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/15YVMlpAjFZgqT72jLE89GCUO_lbzhxhQ?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
+        "image": "assets/img/projects/type2.jpeg",
+        "title": "Form 02",
         "description": "My Description 02",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
+        "image": "assets/img/projects/type3.jpeg",
+        "title": "Form 03",
         "description": "My Description 03",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
+        "image": "assets/img/projects/type4.jpeg",
+        "title": "Form 04",
         "description": "My Description 04",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
+        "image": "assets/img/projects/type5.jpeg",
+        "title": "Form 05",
         "description": "My Description 05",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
+        "image": "assets/img/projects/type6.jpg",
+        "title": "Form 06",
         "description": "My Description 06",
         "link": "#"
     }
